@@ -1,3 +1,4 @@
+> KIND OF BROKEN!!
 > Works only for full matches of links
 
 # Gifly
